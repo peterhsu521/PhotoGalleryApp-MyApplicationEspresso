@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photo Gallery App</string>
+    <string name="edit_message">Type a name to find</string>
+    <string name="button_send">Search</string>
+
+</resources>
